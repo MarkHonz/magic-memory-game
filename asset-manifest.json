@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magic-memory-game/static/css/main.e02ebf56.css",
+    "main.js": "/magic-memory-game/static/js/main.dae80412.js",
+    "index.html": "/magic-memory-game/index.html",
+    "main.e02ebf56.css.map": "/magic-memory-game/static/css/main.e02ebf56.css.map",
+    "main.dae80412.js.map": "/magic-memory-game/static/js/main.dae80412.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02ebf56.css",
+    "static/js/main.dae80412.js"
+  ]
+}
